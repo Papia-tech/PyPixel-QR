@@ -2,7 +2,7 @@
 
 **PyPixel-QR** is a modern, minimalist QR code generator that bridges the gap between Python logic and web design. Unlike traditional web apps, PyPixel runs a full Python engine directly in your browser using **WebAssembly (Pyodide)**.
 
-[![View Demo](https://img.shields.io/badge/DEMO-View%20Live-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_GITHUB_USERNAME.github.io/PyPixel-QR/)
+[![View Demo](https://img.shields.io/badge/DEMO-View%20Live-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Papia-tech.github.io/PyPixel-QR/)
 
 ---
 
