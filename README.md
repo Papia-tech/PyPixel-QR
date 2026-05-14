@@ -17,7 +17,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="preview.png" width="400" alt="PyPixel App Preview">
+  <img src="preview.png" width="1000" alt="PyPixel App Preview">
 </p>
 
 ---
